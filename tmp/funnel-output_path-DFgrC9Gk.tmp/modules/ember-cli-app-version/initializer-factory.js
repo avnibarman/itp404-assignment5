@@ -1,0 +1,1 @@
+/Users/avni/Desktop/SC2/Modern_Web/ember/itp404/ember2/tmp/funnel-input_base_path-s0vIAbuX.tmp/0/initializer-factory.js

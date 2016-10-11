@@ -1,0 +1,10 @@
+  <h1> Artists </h1>
+  {{outlet}}
+<ul>
+{{#each model.artists as |a|}}
+  <li>{{#link-to 'artists.artist' a.id }}{{a.name}}{{/link-to}}</li>
+{{/each}}
+</ul>
+
+
+

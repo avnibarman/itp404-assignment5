@@ -1,0 +1,16 @@
+
+<strong>{{song.title}}</strong> <br>
+Price: ${{song.price}} <br>
+Play Count: {{song.playCount}} 
+
+{{#if isPopular}}
+<p style="color: red;"> Popular Song!</p>
+{{/if}}
+
+{{#if highPrice}}
+ <p style="color: green;">$$</p>
+{{else}}
+   <p style="color: green;">$</p>
+{{/if}}
+
+<hr>

@@ -1,0 +1,6 @@
+<h4> This artist {{model.artists.name}} has {{model.songs.length}} songs</h4>
+{{#each model.songs as |s|}}
+  {{#song-item song=s}}{{/song-item}}
+{{/each}}
+
+{{outlet}}

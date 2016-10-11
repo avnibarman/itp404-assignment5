@@ -1,0 +1,1 @@
+/Users/avni/Desktop/SC2/Modern_Web/ember/itp404/ember2/tmp/broccoli_merge_trees-input_base_path-lSJj3g9J.tmp/2/ember2/tests/integration/components/song-item-test.jshint.js
